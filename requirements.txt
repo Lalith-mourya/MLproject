@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e .   ## used to run the setup.py automatically
