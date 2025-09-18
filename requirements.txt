@@ -1,4 +1,4 @@
 pandas
 numpy
 seaborn
--e .   ## used to run the setup.py automatically
+-e .   ## it is same as pip install -e . (it uses this file to install the project as a package) Mlproject.egg-info is created by this.
