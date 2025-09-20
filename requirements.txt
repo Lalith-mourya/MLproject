@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
--e .   ## it is same as pip install -e . (it uses this file to install the project as a package) Mlproject.egg-info is created by this.
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .   ## it is same as pip install -e . (it uses this file to install the project as a package) Mlproject.egg-info is created by this.
